@@ -1,0 +1,10 @@
+pandas
+streamlit
+numpy
+matplotlib
+scikit-learn
+streamlit-modal
+seaborn
+Random ForestClassifier
+Classfication report
+accuracy score
